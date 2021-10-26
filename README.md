@@ -1,7 +1,7 @@
 terraform-stack-demo
 ====================
 
-Requirimiento
+Requerimiento
 -------------
 * cmake
 * aws-cli
@@ -31,4 +31,4 @@ Confirmación
 Por defecto no solicita la confirmación al momento de ejecutar el stack, para habilitar la confirmación se debe sobreescribir el valor de la variable de la siguiente forma:
 ```console
 AUTO_APPROVE="" make stack.deploy
-```
+```m
